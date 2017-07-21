@@ -1,0 +1,45 @@
+﻿.theme-ccl .navbar {
+  background-color: #583b78 ; } /* #ddab30 */
+
+.theme-ccl .navbar-brand {
+  color: #fff; }
+  .theme-ccl .navbar-brand:hover {
+    color: #fff; }
+  .theme-ccl .navbar-brand:active {
+    color: #fff; }
+  .theme-ccl .navbar-brand:focus {
+    color: #fff; }
+
+.theme-ccl .nav > li > a {
+  color: #fff; }
+  .theme-ccl .nav > li > a:hover {
+    background-color: transparent; }
+  .theme-ccl .nav > li > a:focus {
+    background-color: transparent; }
+
+.theme-ccl .nav .open > a {
+  background-color: transparent; }
+  .theme-ccl .nav .open > a:hover {
+    background-color: transparent; }
+  .theme-ccl .nav .open > a:focus {
+    background-color: transparent; }
+
+.theme-ccl .bars {
+  color: #fff; }
+
+.theme-ccl .sidebar .menu .list li.active {
+  background-color: transparent; }
+  .theme-ccl .sidebar .menu .list li.active > :first-child i, .theme-ccl .sidebar .menu .list li.active > :first-child span {
+    color: #ddab30; }
+
+.theme-ccl .sidebar .menu .list .toggled {
+  background-color: transparent; }
+
+.theme-ccl .sidebar .menu .list .ml-menu {
+  background-color: transparent; }
+
+.theme-ccl .sidebar .legal {
+  background-color: #fff; }
+  .theme-ccl .sidebar .legal .copyright a {
+    color: #ddab30 !important; }
+
